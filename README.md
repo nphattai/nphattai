@@ -1,15 +1,17 @@
 <div align="center">
   <h2> 
-    Hi, there! I am Tai Nguyen <img src="gifs/hi.gif" width="30px">
+    Hi, there! I am Tai Nguyen <img src="gifs/hello.gif" width="50px">
   </h2>
 </div>
 
 ### 💻 &nbsp;About Me
-🎓  Graduated at HCM University of Technology.
 
-🔭  I am currently working at a fintech company in HCM.
+🎓 Graduated at HCM University of Technology.
+
+🔭 I am currently working at a fintech company in HCM.
 
 ### 🛠 &nbsp;Tech Stack
+
 #### Languages
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
@@ -17,6 +19,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-grey?&logo=MySQL&logoColor=4479A1)
 
 #### Technologies
+
 Technologies that I've been learning and I've picked up along my programming journey.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-grey?&logo=node.js)
